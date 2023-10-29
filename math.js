@@ -30,5 +30,4 @@ console.log(result3);
 for (let i = 0; i < 20; i++) {
     const random = Math.round(Math.random()*6);
     console.log(random);
-    
 }
